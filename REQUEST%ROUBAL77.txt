@@ -1,3 +1,0 @@
-H = instance.new(“Hint”)
-H.Parent = game.Workspace
-H.Text = “Team C00lkid Join Today!”
