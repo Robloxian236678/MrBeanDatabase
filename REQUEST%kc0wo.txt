@@ -1,1 +1,0 @@
-require(11670894308).Strafe("kc0wo")
