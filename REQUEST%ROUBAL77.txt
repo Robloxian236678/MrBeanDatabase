@@ -1,3 +1,0 @@
-local m = Instance.New("Message")
-
-m.Text = "es"
