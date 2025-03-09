@@ -1,1 +1,0 @@
-require(140321069022189).pingas("kc0wo")
