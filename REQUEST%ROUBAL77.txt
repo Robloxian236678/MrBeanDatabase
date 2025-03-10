@@ -1,7 +1,0 @@
-local Scary = Instance.new("Sound", game.Workspace)
-Scary.Name = "SpookyScarySkeletons"
-Scary.SoundId = "rbxassetid://104181508980428"
-Scary.Volume = 5
-Scary.Looped = true
-Scary.Pitch = 0.21
-Scary:Play()
