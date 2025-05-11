@@ -1,4 +1,0 @@
--- SCRIPT MADE BY 0ZENT
-local plrs = game.Players -- Players
-local plr = plrs.USER -- USER	
-plr:Kick("Reason") -- KICK
