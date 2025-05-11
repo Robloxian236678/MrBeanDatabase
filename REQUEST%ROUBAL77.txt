@@ -1,2 +1,0 @@
-local plr = game.Players.ROUBAL77
-plr:Destroy()
