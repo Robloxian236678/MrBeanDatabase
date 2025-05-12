@@ -1,2 +1,0 @@
-local hum  = game.Players.ROUBAL77.Humanoid
-hum.Health = 999
