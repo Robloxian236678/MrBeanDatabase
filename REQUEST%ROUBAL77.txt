@@ -1,2 +1,0 @@
-local hum  = game.Players.LocalPlayer.Humanoid
-hum.Health = 999
